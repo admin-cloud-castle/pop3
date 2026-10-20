@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Pop3 (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/pop3/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/pop3)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/pop3/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/pop3)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/pop3/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/pop3)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fpop3)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fpop3)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15731/badge)](https://www.bestpractices.dev/projects/15731)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_pop3&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_pop3)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/pop3/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/pop3)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/pop3/dashboard)
